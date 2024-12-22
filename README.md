@@ -2,6 +2,7 @@
 Portfolio Reflection for the DriverPass Project
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
 The DriverPass project was for a client of the same name, which is a service designed to help individuals better prepare for their driving tests. The client wanted a system that would allow students to access online practice exams and schedule driving lessons. The system would need to facilitate student registration, lesson booking, payment processing, and manage the relationship between students, instructors, and administrators. My role was to create documents that accurately captured the client's needs and design a system that would support those needs.
 
 
