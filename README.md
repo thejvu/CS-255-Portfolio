@@ -1,5 +1,4 @@
 # CS-255-Portfolio
-Portfolio Reflection for the DriverPass Project
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
